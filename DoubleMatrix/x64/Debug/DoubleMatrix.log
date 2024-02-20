@@ -1,0 +1,5 @@
+﻿  Main.cpp
+G:\Repositories\DoubleMatrix\DoubleMatrix\Main.cpp(4,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Matrix.cpp
+  Создание кода...
+  DoubleMatrix.vcxproj -> G:\Repositories\DoubleMatrix\DoubleMatrix\x64\Debug\DoubleMatrix.exe
